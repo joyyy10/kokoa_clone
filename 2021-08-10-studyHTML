@@ -23,3 +23,30 @@ attributes : 태그에 추가하는 부가적인 정보
 
 <img src="KakaoTalk_20210810.jpg" />
 // <img ~> : self-closing tag
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="kr"> // 필수
+
+  <head>
+    <link
+      rel="shortcut icon"
+      sizes="16x16 32x32 64x64"
+      href="KakaoTalk_20210810.jpg"
+    /> // 제목의 아이콘
+    <title>Home - My first website</title>
+    <meta charset="utf-8" /> // 필수
+    <meta name="description" content="This is my website" />
+  </head>
+  
+  <body>
+    <h1>Hello!</h1>
+    <a href="http://google.com" target="_blank">Go to google site !</a>
+    <img src="KakaoTalk_20210810.jpg" />
+  </body>
+  
+</html>
