@@ -89,3 +89,4 @@ attributes : 태그에 추가하는 부가적인 정보
     </form>
     
     // label for="" ~ input id="" 는 항상 함께한다!!!!
+    // type을 email, range, url 등으로 바꿀 수 있음
