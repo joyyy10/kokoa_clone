@@ -77,3 +77,15 @@ attributes : 태그에 추가하는 부가적인 정보
   
 </html>
 
+
+
+
+
+<form>
+      <label for="website">Website</label>
+      <input id="website" required placeholder="Name" type="url" />
+
+      <input type="submit" value="Create Account" />
+    </form>
+    
+    // label for="" ~ input id="" 는 항상 함께한다!!!!
